@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Line 1: Change made on MAIN
+=======
+Line 1: Change made on FEATURE
+>>>>>>> feature-branch
